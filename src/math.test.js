@@ -1,4 +1,4 @@
-import { describe, it, expet } from 'vitest'
+import { describe, it, expect } from 'vitest'
 
 const add = (a, b) => a + b
 
